@@ -1,0 +1,73 @@
+@media (max-width: 1100px) {
+  .main-img{
+    max-width: 80vw;
+  }
+  .navA{
+    display: flex;
+    flex-direction: column;
+  }
+  .main-img-p{
+    min-width: 90vw;
+  }
+  .box-0-2 h2{
+    font-size: 60px;
+    text-align: center;
+  }
+  .box-0-2 p{
+    min-width: 80vw;
+  }
+  .display-flex{
+    flex-direction: column;
+  }
+  .box-1{
+    margin-right: 80px;
+  }
+  .etraf{
+    margin-left: 60px;
+  }
+  .serab{
+    min-width: 100%;
+    margin-left: 20px;
+    margin-bottom: 60px;
+  }
+  .box-1-p{
+    text-align: center;
+  }
+.flex{
+  flex-direction: column;
+  gap: 70px;
+  margin: auto;
+  width: 18vw;
+  margin-top: 20px;
+}
+.flex-between{
+  flex-direction: column;
+}
+.box-2{
+  flex-direction: column;
+}
+.foto{
+  width: 100%;
+}
+/* mellim sizden tek bir xaisim var bu altdaki tag i gormezden gelin plsss*/
+.ters{
+   display: none; 
+}
+.box-2-flex{
+  padding-bottom: 60px;
+}
+.box-2-flex h2{
+  font-size: 25px;
+}
+footer{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.end{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 30px;
+}
+}

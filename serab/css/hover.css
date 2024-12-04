@@ -1,0 +1,22 @@
+
+a:hover {
+    color: #ff6347;
+    transition: all 0.3s ease;
+  }
+a {
+    position: relative; 
+    display: inline-block; 
+    transition: all 0.3s ease; 
+  }
+  
+  a:hover {
+    color: #ff6347; 
+    text-decoration: none; 
+    transform: scale(1.1) translateY(-5px); 
+    transition: all 0.3s ease; 
+  }
+  
+  a:active {
+    transform: scale(1.05); 
+  }
+  
